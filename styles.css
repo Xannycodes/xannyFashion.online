@@ -15,9 +15,8 @@ body{
 .maincontainer{
     max-width: 100%;
     margin: 0 auto;
-  
-   
-
+    display:grid;
+    grid-template-column:1fr;
 }
 
 
