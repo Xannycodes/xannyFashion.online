@@ -188,6 +188,7 @@ body{
     color: #4B2E1E;
     margin:20px 30px;
     padding: 10px 30px;
+    padding-top:20%;
     padding-bottom: 70px;
     animation: appear linear;
     animation-timeline: view();
