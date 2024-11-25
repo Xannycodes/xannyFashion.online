@@ -682,7 +682,7 @@ input::placeholder{
 #form2 button{
     position: absolute;
     top:0;
-    right:30px;
+    right:15px;
     width:60px;
     height: 100%;
     cursor: pointer;
